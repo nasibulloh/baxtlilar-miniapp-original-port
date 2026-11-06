@@ -58,16 +58,7 @@ them as real Baxtlilar members.
 
 ## Welcome / marketing
 
-| File | Shows | Photographer | Unsplash photo | Original |
-|---|---|---|---|---|
-| `photos/welcome/nikah-flowers.jpg` | Bride in a white hijab gown handing a bouquet to the kneeling groom under a carved lattice arch | [Ainur Iman](https://unsplash.com/@mynameisiknow) | [dV8xI8mmnJs](https://unsplash.com/photos/bride-gives-groom-a-bouquet-of-white-roses-dV8xI8mmnJs) | 4035x6052 |
-| `photos/welcome/nikah-marriage-books.jpg` | Newlyweds in white traditional nikah attire smiling and holding up their marriage books | [Rizky Motion](https://unsplash.com/@rizky_motion) | [9Lq0zlOu_dw](https://unsplash.com/photos/newlyweds-holding-marriage-books-in-traditional-attire-9Lq0zlOu_dw) | 4545x3132 |
-| `photos/welcome/wedding-registan.jpg` | Uzbek bride (long-sleeved lace gown, veil) and groom exchanging rings on Registan Square, Samarkand | [Abdul Raaz](https://unsplash.com/@raazstories) | [wY7aTy2SH-s](https://unsplash.com/photos/man-and-woman-in-wedding-dress-walking-on-the-street-during-daytime-wY7aTy2SH-s) | 3840x2160 |
-| `photos/welcome/couple-garden-hands.jpg` | Bride and groom in modest traditional wedding attire walking hand in hand down garden steps | [Fahmy Taza](https://unsplash.com/@fahmytaza) | [FwF1-F4wEGA](https://unsplash.com/photos/a-man-and-woman-in-wedding-attire-FwF1-F4wEGA) | 4160x6240 |
-| `photos/welcome/family-autumn-park.jpg` | Young family - mother in hijab, father and toddler - smiling in an autumn park | [Asal Mshk](https://unsplash.com/@asalmashkoori) | [1hIysloHFZY](https://unsplash.com/photos/a-family-poses-for-a-photo-in-the-autumn-1hIysloHFZY) | 3456x5184 |
-| `photos/welcome/family-three-generations.jpg` | Three-generation family (grandparents, parents, children) posing at dusk in front of a historic mosque square | [Aurélien Lemasson-Théobald](https://unsplash.com/@aurel__lens) | [NCZt-dUakjs](https://unsplash.com/photos/group-of-people-standing-on-yellow-red-and-green-flower-field-during-daytime-NCZt-dUakjs) | 6016x4016 |
-| `photos/welcome/shah-i-zinda-woman.jpg` | Woman in a teal hijab and long navy dress at the blue-tiled Shah-i-Zinda necropolis, Samarkand | [Edgar Cavazos](https://unsplash.com/@edgar_cape) | [ONokA7pWRfE](https://unsplash.com/photos/woman-poses-in-front-of-stunning-blue-architecture-ONokA7pWRfE) | 2992x2993 |
-| `photos/welcome/plov-dastarkhan.jpg` | Uzbek plov on a hand-painted platter on a wooden dastarkhan table | [otabek xatipov](https://unsplash.com/@arrogant_7007) | [IuQl4SNJO3Q](https://unsplash.com/photos/a-plate-of-food-with-meat-and-rice-on-a-table-IuQl4SNJO3Q) | 4160x6240 |
+The first-screen photos moved to `photos/landing/` (own ATTRIBUTION.md there).
 
 ## Backgrounds
 
