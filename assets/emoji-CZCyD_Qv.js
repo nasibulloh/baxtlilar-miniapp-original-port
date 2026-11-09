@@ -1,4 +1,4 @@
-import{n as e,r as t}from"./rolldown-runtime-hePW80VL.js";import{Nt as n,gn as r,gt as i,ln as a,wn as o}from"./shared-BnXxNOHF.js";import{Bd as s,Cd as c,Jp as l,Lp as u,Pp as d,Yd as f,_p as p,gf as m,pp as h,tf as g,yd as _}from"./index-B71m5Ecs.js";var v=t(l(),1),y=[`smileys`,`people`,`symbols`,`nature`,`food`,`activities`,`travel`,`objects`],b={smileys:`😀 grinning face, smile happy
+import{n as e,r as t}from"./rolldown-runtime-hePW80VL.js";import{Nt as n,gn as r,gt as i,ln as a,wn as o}from"./shared-DBvuWNOE.js";import{Bd as s,Cd as c,Jp as l,Lp as u,Pp as d,Yd as f,_p as p,gf as m,pp as h,tf as g,yd as _}from"./index-CJ5TB6vO.js";var v=t(l(),1),y=[`smileys`,`people`,`symbols`,`nature`,`food`,`activities`,`travel`,`objects`],b={smileys:`😀 grinning face, smile happy
 😃 grinning face with big eyes, happy joy
 😄 grinning face with smiling eyes, laugh
 😁 beaming face, grin teeth
